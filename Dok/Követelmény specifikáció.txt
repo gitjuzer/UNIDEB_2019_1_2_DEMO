@@ -10,6 +10,8 @@ Az autók és az ügyfelek kezelése kizárólag fejben és papíron történik.
 ...
 
 3. Vágyálom rendszer
+A rendszer az üzletvezető, a recepciós és az ügyfél oldali funkciókat tartalmazza:
+....
 
 4. Jelenlegi üzleti folyamatok
 Autó igénylés:
