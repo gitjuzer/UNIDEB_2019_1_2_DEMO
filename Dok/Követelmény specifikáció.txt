@@ -1,0 +1,16 @@
+AuKö projekt
+Követelmény specifikáció
+
+1. Bevezetés
+Az AuKö projekt célja, hogy a 12 éve működő autókölcsönző cégünk modern informatikai rendszer támogatásával működjön...
+
+2. Jelenlegi helyzet
+Autókölcsönző cégünk 12 éve működik, papír alapú dokumentálással.
+Az autók és az ügyfelek kezelése kizárólag fejben és papíron történik.
+...
+
+3. Vágyálom rendszer
+
+4. Jelenlegi üzleti folyamatok
+
+5. Igényelt üzleti folyamatok
