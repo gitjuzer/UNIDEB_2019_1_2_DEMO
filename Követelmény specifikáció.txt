@@ -1,7 +1,8 @@
-Csoda projekt
+AuKö projekt
 Követelmény specifikáció
 
 1. Bevezetés
+Az AuKö projekt célja, hogy a 12 éve működő autókölcsönző cégünk modern informatikai rendszer támogatásával működjön...
 
 2. Jelenlegi helyzet
 
