@@ -10,6 +10,8 @@ Az autók és az ügyfelek kezelése kizárólag fejben és papíron történik.
 ...
 
 3. Vágyálom rendszer
+Elképzelésünk szerint a rendszer minden folyamatunkat támogatja.
+Segíti a recepciós munkáját, pl. ...
 
 4. Jelenlegi üzleti folyamatok
 Autó igénylés:
