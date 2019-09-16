@@ -4,6 +4,9 @@ Követelmény specifikáció
 1. Bevezetés
 
 2. Jelenlegi helyzet
+Autókölcsönző cégünk 12 éve működik, papír alapú dokumentálással.
+Az autók és az ügyfelek kezelése kizárólag fejben és papíron történik.
+...
 
 3. Vágyálom rendszer
 
