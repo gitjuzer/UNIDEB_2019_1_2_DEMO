@@ -12,5 +12,19 @@ Az autók és az ügyfelek kezelése kizárólag fejben és papíron történik.
 3. Vágyálom rendszer
 
 4. Jelenlegi üzleti folyamatok
+Autó igénylés:
+--------------
+Telefonon vagy személyesen érdeklődik az ügyfél -> kockás papíron megnézem, hogy milyen autó van szabadon és meddig -> .....
+
+Kölcsön szerződés:
+------------------
+
+Visszahozás:
+------------
+Ha van sérülés ....
+
+
+Új autó vásárlás:
+-----------------
 
 5. Igényelt üzleti folyamatok
